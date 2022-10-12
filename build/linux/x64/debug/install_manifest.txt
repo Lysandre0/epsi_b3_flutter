@@ -1,0 +1,11 @@
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/test_flutter
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/light/git/EPSI_B3DEV_C2/build/linux/x64/debug/bundle/data/flutter_assets/version.json
